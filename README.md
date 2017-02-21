@@ -14,7 +14,7 @@ contains code for the automatic extraction of such mappings from the
 The following histogram shows the "coverage" of oneIoTA for various vocabularies
 (i.e. the number of model elements for which a mapping is found in the given vocabulary):
 
-![LOV Vocabulary Histogram](vocabs.png)
+![LOV Vocabulary Histogram](vocabs.PNG)
 
 # Results
 
