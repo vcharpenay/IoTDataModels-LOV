@@ -1,0 +1,3 @@
+[submodule "IoTDataModels"]
+	path = IoTDataModels
+	url = https://github.com/OpenInterConnect/IoTDataModels.git
